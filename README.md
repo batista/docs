@@ -10,7 +10,7 @@ The documentation is generated from the contents of this [wiki](https://github.c
 ## building the documentation
 If you would like to edit the layout, styling or scripts of the documentation, please follow these steps:
 
-* Install [Node.js](https://nodejs.org/) if you have not already
+* Install [Node.js](https://nodejs.org/) if you have not already,ola
 * `git clone git://github.com/webpack/docs && cd docs`
 * `npm install`
 * `npm start`
